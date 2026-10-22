@@ -1,16 +1,36 @@
-## Hi there 👋
+Hi, I'm Ishanth Kumar 👋
 
-<!--
-**ishanthhhhh/ishanthhhhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Artificial Intelligence and Data Science Student at Chennai Institute of Technology
 
-Here are some ideas to get you started:
+🎯 Aspiring Applied AI Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in building practical AI systems that solve real-world problems. I'm currently strengthening my programming fundamentals and exploring the applications of Artificial Intelligence and Machine Learning.
+
+🌱 Currently Learning
+
+- Python Programming
+- Data Structures and Algorithms
+- Git and GitHub
+- Mathematics for Machine Learning
+- Machine Learning Fundamentals
+
+🎯 My Goals
+
+- Develop strong programming and problem-solving skills
+- Build a solid foundation in AI and Machine Learning
+- Create practical projects that solve real-world problems
+- Learn to develop and deploy AI-powered applications
+
+📂 My Projects
+
+- Python Lab: Academic Python programming exercises and practicals.
+
+I'll add more projects as I continue learning and building.
+
+🤝 Connect With Me
+
+- GitHub: https://github.com/ishanthhhhh
+
+---
+
+Learning continuously. Building practically. Growing into an Applied AI Engineer.
