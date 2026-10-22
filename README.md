@@ -30,7 +30,7 @@ I'll add more projects as I continue learning and building.
 🤝 Connect With Me
 
 - GitHub: https://github.com/ishanthhhhh
-
+- LinkedIn: https://www.linkedin.com/in/ishanth-kumar-0ba12943a
 ---
 
 Learning continuously. Building practically. Growing into an Applied AI Engineer.
